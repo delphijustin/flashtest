@@ -7,4 +7,5 @@ with all OSes that support PHP. NOTE THIS TOOL IS NOT MADE TO BE USED FROM A WEB
 SERVER. Batch file is included for windows(with the files needed to run the tools).
 And shell script for linux. Just run the batch file, with no parameters and follow
 the instructions on the screen. If the Visual C++ Runtime is installed(Windows only)
-then it should work without admin rights.
+then it should work without admin rights. Depending on how big the flash drive is the
+test may take a few hours
